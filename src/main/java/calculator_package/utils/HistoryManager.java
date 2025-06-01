@@ -53,7 +53,7 @@ public class HistoryManager {
                     history.add(line);
                 }
             } catch (IOException e) {
-                System.err.println("Error loading history: " + e.getMessage());
+                System.err.println("Error loading history:" + e.getMessage());
             }
         }
     }
