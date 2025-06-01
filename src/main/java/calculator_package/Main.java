@@ -1,6 +1,7 @@
-import controller.CalculatorController;
-import model.CalculatorModel;
-import view.CalculatorView;
+package calculator_package;
+import calculator_package.view.CalculatorView;
+import calculator_package.model.CalculatorModel;
+import calculator_package.controller.CalculatorController;
 
 public class Main{
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package model;
+package calculator_package.model;
 
 public class CalculatorModel {
     public static double calculate(double num1, double num2, char operator) {
